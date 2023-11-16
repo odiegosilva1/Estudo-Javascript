@@ -1,4 +1,6 @@
-# Estudo-JavaScript
-Repositório para estudo da linguagem JavaScript. 
+# Estudos de TypeScript
 
-* Entrandp em POO em js.
+Repositorio para estudos de TypeScript.
+
+
+
